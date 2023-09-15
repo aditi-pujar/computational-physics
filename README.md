@@ -1,1 +1,1 @@
-My (for now private repo) for computational physics, Fall 2023
+My (very unpolished) repo for Computational Physics, Fall 2023
